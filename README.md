@@ -1,7 +1,7 @@
 #Dependencies
-  *Ruby
-  *Node/NPM
-  *Grunt
+* Ruby
+* Node/NPM
+* Grunt
 
 #Usage
 
