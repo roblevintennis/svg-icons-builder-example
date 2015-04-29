@@ -1,0 +1,21 @@
+{
+  "name": "svg-icons-builder-example",
+  "version": "0.1.0",
+  "description": "An example boiler-plate set up to build SVG Icons using grunt-svgstore and svg4everybody.",
+  "author": "Rob Levin <roblevintennis@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:roblevintennis/svg-icons-builder-example.git"
+  },
+  "keywords": [
+    "svg",
+    "sprite"
+  ],
+  "dependencies": {
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.6.0",
+    "grunt-svg2png": "^0.2.5",
+    "grunt-svgmin": "^1.0.0",
+    "grunt-svgstore": "^0.3.6"
+  }
+}
